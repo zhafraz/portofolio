@@ -22,7 +22,7 @@ Saya pernah memimpin aspek teknis proyek hidroponik vertikal pintar SAVITA (dida
 export const WORK_EXPERIENCE = [
   {
     company: 'Program Kewirausahaan WIBAWA UNS',
-    role: 'Chief Product Officer (CPO) & Technical IoT Lead',
+    role: 'Chief Product Officer (CPO)',
     period: 'Apr 2026 – Sekarang',
     location: 'Surakarta, ID',
     badge: 'Proyek Didanai',
